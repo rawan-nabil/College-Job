@@ -1,0 +1,30 @@
+.head1
+{
+    background-color: rgb(54, 86, 182);
+    width: auto;
+    box-shadow: 0px 0px 50px ed;
+    padding: 0.5em;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2em;
+}
+
+.header
+{
+    width: 8em;
+    margin-right: 2em;
+    justify-content: center;
+}
+
+.body
+{
+    background-color: royalblue;
+    width: 30em;
+    border:black solid 2px;
+    justify-content:end;
+    margin-left: 24em;
+}
+
+a:visited{color: black;}
+a:hover{color: darkred;}
